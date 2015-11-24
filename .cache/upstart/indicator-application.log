@@ -1,0 +1,20 @@
+
+(process:7085): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:7085): indicator-application-service-WARNING **: Name Lost
+
+(process:7113): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:7113): indicator-application-service-WARNING **: Name Lost
+
+(process:7121): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:7121): indicator-application-service-WARNING **: Name Lost
+
+(process:7702): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:7702): indicator-application-service-WARNING **: Name Lost
+
+(process:7744): indicator-application-service-WARNING **: Name Lost
+
+(process:7755): indicator-application-service-WARNING **: Name Lost

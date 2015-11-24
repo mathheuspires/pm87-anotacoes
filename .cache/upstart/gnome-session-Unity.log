@@ -1,0 +1,432 @@
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-hGp7ne
+GPG_AGENT_INFO=/run/user/1271/keyring-hGp7ne/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-hGp7ne
+GPG_AGENT_INFO=/run/user/1271/keyring-hGp7ne/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1271/keyring-hGp7ne/ssh
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-hGp7ne
+GPG_AGENT_INFO=/run/user/1271/keyring-hGp7ne/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-hGp7ne
+GPG_AGENT_INFO=/run/user/1271/keyring-hGp7ne/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1271/keyring-hGp7ne/ssh
+
+** (process:6990): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter
+
+** (nm-applet:7133): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7133): WARNING **: handle_property_changed: failed to update property 'available-connections' of object type NMDeviceWifi.
+
+(zeitgeist-datahub:8726): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:8726): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(gnome-panel:6815): Gdk-WARNING **: gnome-panel: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(telepathy-indicator:8708): Gdk-WARNING **: telepathy-indicator: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(polkit-gnome-authentication-agent-1:7063): Gdk-WARNING **: polkit-gnome-authentication-agent-1: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(unity-fallback-mount-helper:7013): Gdk-WARNING **: unity-fallback-mount-helper: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+gnome-session[6275]: Gdk-WARNING: gnome-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+Window manager warning: Fatal IO error 11 (Resource temporarily unavailable) on display ':0'.
+
+(nautilus:7042): Gdk-WARNING **: nautilus: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(nm-applet:7133): Gdk-WARNING **: nm-applet: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-uLybki
+GPG_AGENT_INFO=/run/user/1271/keyring-uLybki/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-uLybki
+GPG_AGENT_INFO=/run/user/1271/keyring-uLybki/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-uLybki
+GPG_AGENT_INFO=/run/user/1271/keyring-uLybki/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1271/keyring-uLybki/ssh
+GNOME_KEYRING_CONTROL=/run/user/1271/keyring-uLybki
+GPG_AGENT_INFO=/run/user/1271/keyring-uLybki/gpg:0:1
+SSH_AUTH_SOCK=/run/user/1271/keyring-uLybki/ssh
+
+** (process:7572): CRITICAL **: bluez.vala:104: GDBus.Error:org.bluez.Error.NoSuchAdapter: No such adapter
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: handle_property_changed: failed to update property 'available-connections' of object type NMDeviceWifi.
+
+(zeitgeist-datahub:9236): GLib-GObject-WARNING **: invalid (NULL) pointer instance
+
+(zeitgeist-datahub:9236): GLib-GObject-CRITICAL **: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+
+(nautilus:7622): GLib-GIO-WARNING **: Missing callback called fullpath = /home/agil5393/.config/gtk-3.0/bookmarks
+
+
+(nautilus:7622): GLib-GIO-WARNING **: Missing callback called fullpath = /home/agil5393/.config/gtk-3.0/bookmarks
+
+
+(gnome-panel:7430): GLib-GIO-WARNING **: Missing callback called fullpath = /home/agil5393/.config/gtk-3.0/bookmarks
+
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/agil5393/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.5.0.20140606-0033.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+Window manager warning: Log level 8: Source ID 284 was not found when attempting to remove it
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Window manager warning: Log level 8: Source ID 461 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 474 was not found when attempting to remove it
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Window manager warning: Log level 8: Source ID 628 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 630 was not found when attempting to remove it
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+(gnome-terminal:13202): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3c00085 (teste.txt )
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+(gnome-terminal:13570): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3c00085 (teste.txt )
+Window manager warning: meta_window_activate called by a pager with a 0 timestamp; the pager needs to be fixed.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Window manager warning: Log level 8: Source ID 2578 was not found when attempting to remove it
+Window manager warning: Log level 8: Source ID 3175 was not found when attempting to remove it
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Vector smash protection is enabled.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Window manager warning: Log level 8: Source ID 3498 was not found when attempting to remove it
+
+(gnome-terminal:14653): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=256m; support was removed in 8.0
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+org.eclipse.m2e.logback.configuration: Logback config file: /home/agil5393/workspace/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.5.0.20140606-0033.xml
+org.eclipse.m2e.logback.configuration: Initializing logback
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+Window manager warning: Log level 8: Source ID 3722 was not found when attempting to remove it
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+(gnome-terminal:15061): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+(gnome-terminal:15239): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (nm-applet:7719): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation

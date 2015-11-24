@@ -1,0 +1,32 @@
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd main process ended, respawning
+init: at-spi2-registryd respawning too fast, stopped
+init: indicator-bluetooth main process ended, respawning
+init: indicator-application main process ended, respawning
+init: indicator-application main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-application respawning too fast, stopped
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth main process ended, respawning
+init: indicator-bluetooth respawning too fast, stopped
+init: unity-settings-daemon main process (6271) terminated with status 1
+init: logrotate main process (6131) killed by TERM signal
+init: gnome-session (Unity) main process (6275) terminated with status 1
+init: indicator-power main process (7068) killed by TERM signal
+init: indicator-datetime main process (7074) killed by TERM signal
+init: indicator-session main process (7081) killed by TERM signal
+init: Disconnected from notified D-Bus bus

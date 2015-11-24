@@ -1,0 +1,10 @@
+logrotate state -- version 2
+"/home/agil5393/.cache/upstart/indicator-sound.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/dbus.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/at-spi2-registryd.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/unity-settings-daemon.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/gnome-session-Unity.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/window-stack-bridge.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/update-notifier-release.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/indicator-application.log" 2015-11-23-19:0:0
+"/home/agil5393/.cache/upstart/indicator-bluetooth.log" 2015-11-23-19:0:0

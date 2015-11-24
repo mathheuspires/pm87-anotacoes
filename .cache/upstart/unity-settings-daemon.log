@@ -1,0 +1,11 @@
+
+** (unity-settings-daemon:6271): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:6271): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.
+
+(unity-settings-daemon:6271): Gdk-WARNING **: unity-settings-daemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+** (unity-settings-daemon:7055): WARNING **: Unable to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(unity-settings-daemon:7055): media-keys-plugin-WARNING **: Grab failed for some keys, another application may already have access the them.

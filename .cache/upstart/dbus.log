@@ -1,0 +1,484 @@
+Activating service name='org.ayatana.bamf'
+Activating service name='org.a11y.Bus'
+Successfully activated service 'org.a11y.Bus'
+Activating service name='org.a11y.atspi.Registry'
+Successfully activated service 'org.a11y.atspi.Registry'
+
+** (at-spi2-registryd:6170): WARNING **: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+** (at-spi2-registryd:6170): WARNING **: Unable to register client with session manager
+Activating service name='org.gtk.vfs.Daemon'
+Successfully activated service 'org.gtk.vfs.Daemon'
+Successfully activated service 'org.ayatana.bamf'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Activating service name='org.freedesktop.IBus'
+Successfully activated service 'org.freedesktop.IBus'
+Activating service name='org.gnome.ScreenSaver'
+Activating service name='org.freedesktop.Notifications'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gnome.evolution.dataserver.Sources2'
+Successfully activated service 'org.gnome.ScreenSaver'
+Successfully activated service 'org.freedesktop.Notifications'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+module-cache-reaper-Message: Scanning data directories
+module-cache-reaper-Message: Scanning cache directories
+Successfully activated service 'org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.gnome.panel.applet.IndicatorAppletCompleteFactory'
+Successfully activated service 'org.gnome.panel.applet.IndicatorAppletCompleteFactory'
+
+(indicator-applet-complete:8657): Indicator-Applet-Complete-WARNING **: Binding '<Super>S' failed!
+
+Activating service name='com.canonical.indicator.keyboard'
+Successfully activated service 'com.canonical.indicator.keyboard'
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.freedesktop.Telepathy.AccountManager'
+
+** (process:8716): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:8716): WARNING **: handle_property_changed: failed to update property 'available-connections' of object type NMDeviceWifi.
+Successfully activated service 'org.freedesktop.Telepathy.AccountManager'
+Activating service name='com.canonical.indicators.webcredentials'
+Successfully activated service 'com.canonical.indicators.webcredentials'
+Activating service name='org.gnome.zeitgeist.Engine'
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+
+** (zeitgeist-datahub:8743): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+** Message: Index must be upgraded. Doing full rebuild
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+
+** (zeitgeist-fts:8741): WARNING **: Unable to get info on application://zeitgeist-datahub.desktop
+
+(bamfdaemon:6161): Gdk-WARNING **: bamfdaemon: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+XIO:  fatal IO error 11 (Resource temporarily unavailable) on X server ":0"
+      after 21 requests (21 known processed) with 0 events remaining.
+
+(notify-osd:7132): Gdk-WARNING **: notify-osd: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+signon-ui: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+(indicator-keyboard-service:8662): Gdk-WARNING **: indicator-keyboard-service: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(ibus-daemon:6355): GLib-WARNING **: GChildWatchSource: Exit status of a child process was requested but ECHILD was received by waitpid(). Most likely the process is ignoring SIGCHLD, or some other thread is invoking waitpid() with a nonpositive first argument; either behavior can break applications that use g_child_watch_add()/g_spawn_sync() either directly or indirectly.
+g_dbus_connection_real_closed: Remote peer vanished with error: Underlying GIOStream returned 0 bytes on an async read (g-io-error-quark, 0). Exiting.
+Activating service name='org.gtk.vfs.Daemon'
+Successfully activated service 'org.gtk.vfs.Daemon'
+Activating service name='org.ayatana.bamf'
+Activating service name='ca.desrt.dconf'
+Successfully activated service 'ca.desrt.dconf'
+Activating service name='org.freedesktop.IBus'
+Successfully activated service 'org.freedesktop.IBus'
+Successfully activated service 'org.ayatana.bamf'
+Activating service name='org.gnome.ScreenSaver'
+Activating service name='org.freedesktop.Notifications'
+Activating service name='org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gnome.evolution.dataserver.Sources2'
+Successfully activated service 'org.freedesktop.Notifications'
+Successfully activated service 'org.gnome.ScreenSaver'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
+Successfully activated service 'org.gtk.Private.UDisks2VolumeMonitor'
+Activating service name='org.gtk.Private.MTPVolumeMonitor'
+Successfully activated service 'org.gtk.Private.MTPVolumeMonitor'
+Activating service name='org.gtk.Private.AfcVolumeMonitor'
+Successfully activated service 'org.gtk.Private.AfcVolumeMonitor'
+Activating service name='org.gtk.Private.GPhoto2VolumeMonitor'
+Successfully activated service 'org.gtk.Private.GPhoto2VolumeMonitor'
+module-cache-reaper-Message: Scanning data directories
+module-cache-reaper-Message: Scanning cache directories
+Successfully activated service 'org.gnome.evolution.dataserver.Sources2'
+Activating service name='org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.gnome.panel.applet.IndicatorAppletCompleteFactory'
+Successfully activated service 'org.gnome.panel.applet.IndicatorAppletCompleteFactory'
+
+(indicator-applet-complete:9101): Indicator-Applet-Complete-WARNING **: Binding '<Super>S' failed!
+
+Activating service name='com.canonical.indicator.keyboard'
+Successfully activated service 'com.canonical.indicator.keyboard'
+
+(indicator-applet-complete:9101): Gtk-CRITICAL **: gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+
+(indicator-applet-complete:9101): Gtk-CRITICAL **: gtk_distribute_natural_allocation: assertion 'extra_space >= 0' failed
+Activating service name='org.gtk.vfs.Metadata'
+Successfully activated service 'org.gtk.vfs.Metadata'
+Successfully activated service 'org.gnome.evolution.dataserver.Calendar4'
+Activating service name='org.freedesktop.Telepathy.AccountManager'
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: handle_property_changed: failed to update property 'available-connections' of object type NMDeviceWifi.
+Successfully activated service 'org.freedesktop.Telepathy.AccountManager'
+Activating service name='com.canonical.indicators.webcredentials'
+Successfully activated service 'com.canonical.indicators.webcredentials'
+Activating service name='org.gnome.zeitgeist.Engine'
+Activating service name='org.gnome.zeitgeist.SimpleIndexer'
+Successfully activated service 'org.gnome.zeitgeist.Engine'
+
+** (zeitgeist-datahub:9249): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+Successfully activated service 'org.gnome.zeitgeist.SimpleIndexer'
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://eclipse.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+module-cache-reaper-Message: Reaping abandoned data directories
+module-cache-reaper-Message: Reaping abandoned cache directories
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+(gnome-screensaver:7693): GLib-CRITICAL **: Source ID 30 was not found when attempting to remove it
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+(gnome-screensaver:7693): GLib-CRITICAL **: Source ID 1201 was not found when attempting to remove it
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://eclipse.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (zeitgeist-fts:9247): WARNING **: Unable to get info on application://nautilus-autostart.desktop
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
+
+** (process:9226): WARNING **: Could not create object for /org/freedesktop/NetworkManager/Settings/0: uid 1271 has no permission to perform this operation
